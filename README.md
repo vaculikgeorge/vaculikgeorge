@@ -13,4 +13,4 @@ Microsoft cloud security architect at Trask MSSP. I work at the intersection of 
 ### Links
 
 - Blog: **[trustanchor.pro](https://trustanchor.pro)**
-- LinkedIn: [in/vaculikjiri](https://www.linkedin.com/in/vaculikjiri)
+- LinkedIn: [in/vaculikjiri](https://www.linkedin.com/in/vaculikgeorge)
