@@ -35,7 +35,6 @@ Editorial frame: identity governance and the IaC supply chain that delivers it a
 |---|---|
 | LinkedIn | [linkedin.com/in/vaculikgeorge](https://www.linkedin.com/in/vaculikgeorge) |
 | Microsoft Learn | [learn.microsoft.com/users/vaculikgeorge](https://learn.microsoft.com/users/vaculikgeorge/credentials/certifications?tab=credentials-tab) |
-| Community email | `jvaculik` at `thetrask.com` |
 
 ---
 
