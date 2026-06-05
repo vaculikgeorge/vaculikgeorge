@@ -1,4 +1,4 @@
-# George Vaculik (Jiří)
+# George Vaculik
 
 **Senior Microsoft cloud security architect at the intersection of identity modernisation, governance, and IaC supply-chain integrity.**
 
